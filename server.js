@@ -7,7 +7,7 @@ const Routes = require('./routes/emailRoutes');
 require('dotenv').config();
 
 const corsOptions = {
-  origin: 'https://ai-email-sender.vercel.app',
+  origin: 'https://ai-email-sender-gwyr-three.vercel.app',
   credentials: true
 };
 
